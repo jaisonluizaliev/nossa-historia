@@ -249,21 +249,21 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 /*.single-about-txt*/
 .single-about-txt h3 {
     font-size:18px;
-    color: #3c4258;
+    color: #000;
     text-transform: initial;
     line-height: 1.8;
 }
 .single-about-txt p {
     font-size: 16px;
-    color: #999fb3;
+    color: #000;
     padding: 35px 0 43px;
-    border-bottom: 1px solid #999fb3;
+    border-bottom: 1px solid #000;
 }
 .single-about-add-info {
     margin: 35px 0;
 }
 .single-about-add-info h3 {
-    color: #636a82;
+    color: #000;
     font-size: 16px;
     text-transform: capitalize;
 }
@@ -286,6 +286,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     object-fit: contain;
     /* height: 468px; */
 }
+
+
 .about-list-icon{
     display: flex;
     justify-content: center;
